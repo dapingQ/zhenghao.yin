@@ -7,101 +7,136 @@ permalink: /cv/
 CONTACT
 ===================================================
 
-- Email: zhenghao.yin@univie.ac.at
-- Tel: +43-1-4277-72555
-
+<br>
 Faculty of Physics, University of Vienna
-
+<br>
 Boltzmanngasse 5, 1090 Vienna, Austria
+<br>
+Email: zhenghao.yin@univie.ac.at
+<br>
+Tel: +43-1-4277-72555
 
 EDUCATION
-===================================================================
+===================================================
 
-Ph.D (2021/01 – Present)
 
-: Faculty of Physics, University of Vienna, Austria
-
-M.Eng. (2017/10 – 2020/03)
-
-: Department of Electronic Science and Engineering, Graduate School of Engineering, Kyoto University, Japan
-: Thesis: _[Broadband frequency entangled photon generation using silicon nitride ring cavities][thesis]_
-[thesis]: https://github.com/dapingq/master-thesis/blob/master/main.pdf
-
-B.S. (2013/09 – 2017/06)
-
-: Department of Physics, School of Physics, Nanjing University, China
+<table>
+  <tr>
+    <td width="33%" valign="top" align="left">2021/01 – Present</td>
+    <td width="67%" valign="top" align="left">
+      <strong>Ph.D. in Physics</strong><br>
+      Faculty of Physics, University of Vienna, Austria
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top" align="left">2017/10 – 2020/03</td>
+    <td width="67%" valign="top" align="left">
+      <strong>M.Eng. in Electronic Engineering</strong><br>
+      Department of Electronic Science and Engineering, Graduate School of Engineering, Kyoto University, Japan<br>
+      Thesis: <em><a href="https://github.com/dapingq/master-thesis/blob/master/main.pdf">Broadband frequency entangled photon generation using silicon nitride ring cavities</a></em>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top" align="left">2013/09 – 2017/06</td>
+    <td width="67%" valign="top" align="left">
+      <strong>B.Sc. in Physics</strong><br>
+      Department of Physics, School of Physics, Nanjing University, China
+    </td>
+  </tr>
+</table>
 
 RESEARCH EXPERIENCE
 ===================================================
 
-2021.01-Present
-
-: **Photonic quantum machine learning**
-: with Prof. Philip Walther, University of Vienna, Austria
-
-2017.10–2020.03
-
-: **Quantum information processing**
-: with Prof. Shigeki Takeuchi, Kyoto University, Japan
-: We collaborated with [Prof. Shiyoshi Yokoyama][yok-lab] at Kyushu University, and focusing on realization of on-chip high-intensity broadband entangled photon sources based on SiNx and other material platforms.
-1. study of phase matching condition for entangled photon source
-2. optical device nano-fabrication, especially high quality factor micro-ring resonators
-3. realization of long-time stable frequency-correlated photon pairs broadband
-
-[yok-lab]: http://www.cm.kyushu-u.ac.jp/dv15/Yokoyama_Labo.html
-
-2015.09-2020.06
-
-: **Integrated quantum photonics**
-: with Prof. Xiaosong Ma, Nanjing University, China
-:  My initial research interest in MaLab was QKD and Bell states measurement and finally turned into the integration of quantum optical devices.
-1. nano-fabrication based on commercial SOI/SiNOI wafers
-2. demonstration and automation of the integration photonics test system
+<table>
+  <tr>
+    <td width="33%" valign="top" align="left">2021/01 – Present</td>
+    <td width="67%" valign="top" align="left">
+      <strong>Photonic quantum machine learning</strong><br>
+      with <a href="https://walther.univie.ac.at/">Prof. Philip Walther</a>, University of Vienna, Austria
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top" align="left">2017/10 – 2020/03</td>
+    <td width="67%" valign="top" align="left">
+      <strong>Quantum information processing</strong><br>
+      with <a href="http://qip.kuee.kyoto-u.ac.jp/">Prof. Shigeki Takeuchi</a>, Kyoto University, Japan<br>     
+      Collaborated with <a href="https://yokoyama-labo.cm.kyushu-u.ac.jp/">Prof. Shiyoshi Yokoyama</a> at Kyushu University, focusing on on-chip high-intensity broadband entangled photon sources based on SiNx and other material platforms.<br>
+      <ul>
+        <li>Study of phase matching condition for entangled photon source</li>
+        <li>Optical device nano-fabrication, especially high quality factor micro-ring resonators</li>
+        <li>Realization of long-time stable frequency-correlated photon pairs broadband</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top" align="left">2015/09 – 2020/06</td>
+    <td width="67%" valign="top" align="left">
+      <strong>Integrated quantum photonics</strong><br>
+      with <a href="https://qoqi.nju.edu.cn/">Prof. Xiaosong Ma</a>, Nanjing University, China<br>     Initial research in QKD and Bell states measurement, later focused on integration of quantum optical devices.<br>
+      <ul>
+        <li>Nano-fabrication based on commercial SOI/SiNOI wafers</li>
+        <li>Demonstration and automation of integrated photonics test system</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 OTHER EXPERIENCE
 ===================================================
 
-2023.09–2023.10
+<table>
+  <tr>
+    <td width="33%" valign="top" align="left">2023/09 – 2023/10</td>
+    <td width="67%" valign="top" align="left">
+      <strong>Ph.D. Secondment</strong><br>
+      Hosted by Prof. Ian Walmsley and Dr. Raj Patel, Imperial College London, UK
+    </td>
+  </tr>
+</table>
 
-: *Ph.D. Secondment*
-: Hosted by Prof Ian Walmsley and Dr. Raj Patel at Imperial College London, London, UK
 
-
-
-AWARDS & HONORS
+AWARDS
 ===================================================
-2021/03 – 2024/02		
 
-: Marie Skłodowska-Curie Action Early-Stage Researcher
+<table>
+  <tr>
+    <td width="33%" valign="top" align="left">2021/03 – 2024/02</td>
+    <td width="67%" valign="top" align="left">
+      <strong>Marie Skłodowska-Curie Action Early-Stage Researcher</strong><br>
+      Faculty of Physics, University of Vienna, Austria
+    </td>
+  </tr>
+</table>
 
 PUBLICATIONS
 ===================================================
 
-Journal Articles and Preprintts
----------------------------------------------------------------------
-+  *Experimental quantum-enhanced kernels on a photonic processor*
-  <br> <u>Zhenghao Yin</u>, Iris Agresti, Giovanni de Felice, Douglas Brown, Alexis Toumi, Ciro Pentangelo, Simone Piacentini, Andrea Crespi, Francesco Ceccarelli, Roberto Osellame, Bob Coecke, Philip Walther
-  <br> [arxiv:2407.20364](https://arxiv.org/abs/2407.20364) (2024)
++  *Experimental quantum-enhanced kernel-based machine learning on a photonic processor*
+  <br> <u>Zhenghao Yin</u>, Iris Agresti, Giovanni de Felice, Douglas Brown, Alexis Toumi, Ciro Pentangelo, Simone Piacentini, Andrea Crespi, Francesco Ceccarelli, Roberto Osellame, Bob Coecke, Philip Walther. 
+  <br>[*Nature Photonics*. (2025) ](https://www.nature.com/articles/s41566-025-01682-5)
+  <br>[arxiv:2407.20364](https://arxiv.org/abs/2407.20364)
 
-+  *'Demonstration of Hardware Efficient Photonic Variational Quantum Algorithm*
-  <br> Iris Agresti, Koushik Paul, Peter Schiansky, Simon Steiner, <u>Zhenghao Yin</u>, Ciro Pentangelo, Simone Piacentini, Andrea Crespi, Yue Ban, Francesco Ceccarelli, Roberto Osellame, Xi Chen, Philip Walther
-  <br> [arXiv:2408.10339](https://arxiv.org/abs/2408.10339) (2024)
++  *Demonstration of Hardware Efficient Photonic Variational Quantum Algorithm*
+  <br> Iris Agresti, Koushik Paul, Peter Schiansky, Simon Steiner, <u>Zhenghao Yin</u>, Ciro Pentangelo, Simone Piacentini, Andrea Crespi, Yue Ban, Francesco Ceccarelli, Roberto Osellame, Xi Chen, Philip Walther.
+  <br>[arXiv:2408.10339](https://arxiv.org/abs/2408.10339) 
 
-+ *Frequency correlated photon generation at telecom band using silicon nitride ring cavities*
-   <br> <u>Zhenghao Yin</u>, Kenta Sugiura, Hideaki Takashima, Ryo Okamoto, Feng Qiu, Shiyoshi Yokoyama, and Shigeki Takeuchi
-   <br> Opt. Express 29, 4821 (2021) [https://doi.org/10.1364/OE.416165](https://doi.org/10.1364/OE.416165)
-+ *Broadband generation of photon-pairs from a CMOS compatible device*
-   <br> Sugiura Kenta, <u>Zhenghao Yin</u>, Ryo Okamoto, Labao Zhang, Lin Kang, Jian Chen, Pei-heng Wu, Sai Tak Chu, Brent E. Little, Shigeki Takeuchi
-   <br> Applied Physics Letters 116, 224001 (2020) [https://doi.org/10.1063/5.0009361](https://doi.org/10.1063/5.0009361)
++  *Frequency correlated photon generation at telecom band using silicon nitride ring cavities*
+  <br> <u>Zhenghao Yin</u>, Kenta Sugiura, Hideaki Takashima, Ryo Okamoto, Feng Qiu, Shiyoshi Yokoyama, and Shigeki Takeuchi. 
+  <br> [*Optics Express* 29, 4821 (2021)](https://doi.org/10.1364/OE.416165)
+  <br> [arXiv:2102.03005](https://arxiv.org/abs/2102.03005)
+
++  *Broadband generation of photon-pairs from a CMOS compatible device*
+  <br> Sugiura Kenta, <u>Zhenghao Yin</u>, Ryo Okamoto, Labao Zhang, Lin Kang, Jian Chen, Pei-heng Wu, Sai Tak Chu, Brent E. Little, Shigeki Takeuchi
+  <br> [*Applied Physics Letters* 116, 224001 (2020)](https://doi.org/10.1063/5.0009361)
 
 
-Selected Conferences & Workshops
----------------------------------------------------------------------
+CONFERENCES & WORKSHOPS
+===================================================
 
 + *Experimental quantum kernel estimation enhanced by single photons* (Oral Presentation)
   <br><u>Zhenghao Yin</u>, Iris Agresti, Giovanni de Felice, Douglas Brown, Alexis Toumi, Ciro Pentangelo, Simone Piacentini, Andrea Crespi, Francesco Ceccarelli, Roberto Osellame, Bob Coecke, Philip Walther
   <br>24th Asian Quantum Information Science Conference	(2024, Sapporo, Japan)
-
 
 + *Quantum kernel method using integrated photonic circuits* (Poster)
   <br><u>Zhenghao Yin</u>, Iris Agresti, Giovanni de Felice, Douglas Brown, Bob Coecke, Philip Walther
