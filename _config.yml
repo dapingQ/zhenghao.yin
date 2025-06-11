@@ -1,12 +1,3 @@
 title: Zhenghao YIN
 baseurl: "/zhenghao.yin" # the subpath of your site, e.g. /blog
 url: "https://dapingq.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-
-paginate: false
-kramdown:
-  auto_ids: false
-
-language: 
-  - en
-  - zh
-  - jp
