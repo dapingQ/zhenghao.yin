@@ -4,15 +4,17 @@ title: Zhenghao Yin
 permalink: /cv/
 ---
 
-Contact
+CONTACT
 ===================================================
 
 - Email: zhenghao.yin@univie.ac.at
 - Tel: +43-1-4277-72555
+
 Faculty of Physics, University of Vienna
+
 Boltzmanngasse 5, 1090 Vienna, Austria
 
-Education
+EDUCATION
 ===================================================================
 
 Ph.D (2021/01 – Present)
@@ -29,17 +31,17 @@ B.S. (2013/09 – 2017/06)
 
 : Department of Physics, School of Physics, Nanjing University, China
 
-Research Experience
+RESEARCH EXPERIENCE
 ===================================================
 
 2021.01-Present
 
-: *Photonic quantum machine learning*
+: **Photonic quantum machine learning**
 : with Prof. Philip Walther, University of Vienna, Austria
 
 2017.10–2020.03
 
-: *Quantum information processing*
+: **Quantum information processing**
 : with Prof. Shigeki Takeuchi, Kyoto University, Japan
 : We collaborated with [Prof. Shiyoshi Yokoyama][yok-lab] at Kyushu University, and focusing on realization of on-chip high-intensity broadband entangled photon sources based on SiNx and other material platforms.
 1. study of phase matching condition for entangled photon source
@@ -50,13 +52,13 @@ Research Experience
 
 2015.09-2020.06
 
-: *Integrated quantum photonics*
+: **Integrated quantum photonics**
 : with Prof. Xiaosong Ma, Nanjing University, China
 :  My initial research interest in MaLab was QKD and Bell states measurement and finally turned into the integration of quantum optical devices.
 1. nano-fabrication based on commercial SOI/SiNOI wafers
 2. demonstration and automation of the integration photonics test system
 
-Other Experience
+OTHER EXPERIENCE
 ===================================================
 
 2023.09–2023.10
@@ -72,18 +74,18 @@ AWARDS & HONORS
 
 : Marie Skłodowska-Curie Action Early-Stage Researcher
 
-Publications
+PUBLICATIONS
 ===================================================
 
 Journal Articles and Preprintts
 ---------------------------------------------------------------------
 +  *Experimental quantum-enhanced kernels on a photonic processor*
-    <br> <u>Zhenghao Yin</u>, Iris Agresti, Giovanni de Felice, Douglas Brown, Alexis Toumi, Ciro Pentangelo, Simone Piacentini, Andrea Crespi, Francesco Ceccarelli, Roberto Osellame, Bob Coecke, Philip Walther
-    <br> [arxiv:2407.20364](https://arxiv.org/abs/2407.20364) (2024)
+  <br> <u>Zhenghao Yin</u>, Iris Agresti, Giovanni de Felice, Douglas Brown, Alexis Toumi, Ciro Pentangelo, Simone Piacentini, Andrea Crespi, Francesco Ceccarelli, Roberto Osellame, Bob Coecke, Philip Walther
+  <br> [arxiv:2407.20364](https://arxiv.org/abs/2407.20364) (2024)
 
 +  *'Demonstration of Hardware Efficient Photonic Variational Quantum Algorithm*
-    <br> Iris Agresti, Koushik Paul, Peter Schiansky, Simon Steiner, <u>Zhenghao Yin</u>, Ciro Pentangelo, Simone Piacentini, Andrea Crespi, Yue Ban, Francesco Ceccarelli, Roberto Osellame, Xi Chen, Philip Walther
-    <br> [arXiv:2408.10339](https://arxiv.org/abs/2408.10339) (2024)
+  <br> Iris Agresti, Koushik Paul, Peter Schiansky, Simon Steiner, <u>Zhenghao Yin</u>, Ciro Pentangelo, Simone Piacentini, Andrea Crespi, Yue Ban, Francesco Ceccarelli, Roberto Osellame, Xi Chen, Philip Walther
+  <br> [arXiv:2408.10339](https://arxiv.org/abs/2408.10339) (2024)
 
 + *Frequency correlated photon generation at telecom band using silicon nitride ring cavities*
    <br> <u>Zhenghao Yin</u>, Kenta Sugiura, Hideaki Takashima, Ryo Okamoto, Feng Qiu, Shiyoshi Yokoyama, and Shigeki Takeuchi
@@ -97,8 +99,8 @@ Selected Conferences & Workshops
 ---------------------------------------------------------------------
 
 + *Experimental quantum kernel estimation enhanced by single photons* (Oral Presentation)
-    <br><u>Zhenghao Yin</u>, Iris Agresti, Giovanni de Felice, Douglas Brown, Alexis Toumi, Ciro Pentangelo, Simone Piacentini, Andrea Crespi, Francesco Ceccarelli, Roberto Osellame, Bob Coecke, Philip Walther
-    <br>24th Asian Quantum Information Science Conference	(2024, Sapporo, Japan)
+  <br><u>Zhenghao Yin</u>, Iris Agresti, Giovanni de Felice, Douglas Brown, Alexis Toumi, Ciro Pentangelo, Simone Piacentini, Andrea Crespi, Francesco Ceccarelli, Roberto Osellame, Bob Coecke, Philip Walther
+  <br>24th Asian Quantum Information Science Conference	(2024, Sapporo, Japan)
 
 
 + *Quantum kernel method using integrated photonic circuits* (Poster)
@@ -114,10 +116,10 @@ Selected Conferences & Workshops
   <br>EU-USA-Japan International Symposium on Quantum Technology (2019, Kyoto, Japan)
 
 
-Others
+OTHERS
 ===================================================================
 
-Skills
+SKILLS
 ---------------------------------------------------------------------
 
 - Experimental
@@ -139,7 +141,7 @@ Skills
   + Japanese
   + German
 
-Open Source
+OPEN SOURCE
 ---------------------------------------------------------------------
 
 [Qpyc](https://github.com/dapingq/qpyc) 
@@ -157,5 +159,5 @@ Open Source
 
 <script>markdeepOptions = {definitionStyle:'short', tocStyle:'short'}</script>
 <style>
-    dt { width: 230px; font-family: arial}
+  dt { width: 230px; font-family: arial}
 </style>
