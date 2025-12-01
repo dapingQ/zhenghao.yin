@@ -1,6 +1,6 @@
 <meta charset="utf-8"><style class="fallback">body{visibility:hidden;}</style>
 
-<img src="zhenghao.jpeg" alt="Zhenghao Yin" style="width: 120px; height: 120px; border-radius: 50%; border: 2px solid #767676; float: left;">
+<img src="./figs/zhenghao.jpeg" alt="Zhenghao Yin" style="width: 120px; height: 120px; border-radius: 50%; border: 2px solid #767676; float: left;">
 
 <div style="text-align: right;">
   <div style="font-size: 26px; font-weight: 800; font-family: Verdana, Helvetica, Arial, sans-serif;">Zhenghao Yin</div>
@@ -24,7 +24,7 @@ My academic journey has spanned several countries and disciplines. I began with 
 Research Interests
 ==============================
 
-![Photonic quantum machine learning](venn.svg width=500px)
+![Photonic quantum machine learning (PQML)](./figs/venn.svg width=500px)
 
 My research spans integrated photonics, quantum optics, and quantum machine learning. During my PhD, I focus on photonic quantum machine learning — developing and implementing quantum ML algorithms on photonic platforms, particularly photonic integrated circuits.
 
@@ -32,16 +32,18 @@ Key achievements include:
 
 - Experimental quantum-enhanced kernel-based machine learning on a photonic processor, published in [_Nature Photonics_ *19*, 1020-1027 (2025)](https://www.nature.com/articles/s41566-025-01682-5). We designed, simulated, and experimentally implemented quantum kernel methods on linear optical systems, benchmarking quantum interference between indistinguishable and distinguishable photons.
 
-![Photonic quantum kernel method](kernel.svg width=500px)
+![Photonic quantum kernel method](./figs/kernel.svg width=450px)
 
-- Demonstrated the scaling of photon number in photonic quantum machine learning. We discovered the scaling law of learning capability by studying the gradient landscape of linear optical circuits.
+- Demonstrated the scaling of photon number in photonic quantum machine learning. We discovered the scaling law of learning capability by studying the gradient landscape of linear optical circuits — see [arXiv:2511.21951](https://arxiv.org/abs/2511.21951)
+
+![Scaling of multi-photon in PQML](./figs/multipho.svg width=700px)
 
 - Contributed to the development of a quantum optical satellite payload, now operational in orbit — see the [press release](https://rudolphina.univie.ac.at/en/quantum-computer-from-vienna-for-outer-space).
 
-![Roquet payload](roquet.png width=300px)
+![Quantum optics experimental payload, Roquet. <br> Left, Transporter-14 Mission. Middle top, lab model. <br> Middle bottom, flight model. Right, Engineering model](./figs/roquet.png width=400px)
 
-Previous experience includes extensive cleanroom fabrication of silicon and silicon-nitride devices, with a focus on Kerr-nonlinear ring cavities/resonators for generating broadband, frequency-entangled photon pairs. I have collaborated with leading groups in Japan and China and participated in international projects and secondments.
-
+Previous experience includes extensive cleanroom fabrication of silicon and silicon-nitride devices, with a focus on Kerr-nonlinear ring cavities/resonators for generating broadband, frequency-entangled photon pairs.
+ <!-- I have collaborated with leading groups in Japan and China and participated in international projects and secondments. -->
 I am active in open-source development for photonic circuit control and calibration, and I aim to advance quantum optics and explore quantum advantage in machine learning applications.
 
 A full CV and publications can be found [here](cv.html).
@@ -54,6 +56,13 @@ dt { width: 110px; font-family: arial} dd { padding-bottom: 1px }
 .md h1:before, .md h2:before { content: none }
 .md ul li.plus { list-style-type: none; margin-left: -40px; padding-bottom: 10px}
 em.asterisk { font-style: normal; font-weight: bold }
+.md .imagecaption, .md .tablecaption, .md .listingcaption {
+    display: inline-block;
+    margin: 7px 5px 12px;
+    text-align: center;
+    font-style: italic;
+    font-size: 80%;
+}
 </style>
 
 <script>markdeepOptions = {definitionStyle:'long', tocStyle:'none'}</script>
